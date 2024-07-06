@@ -1,0 +1,44 @@
+[
+{
+    "homeAd1Link": "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration",
+    
+    "homeAd1Image": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
+    
+    "homeAd1is_Open" : true,
+    
+    "homeAd2Link": "https://love580.vip/ykbxdgMM",
+    
+    "homeAd2Image": "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/BLIVE-600x200.gif",
+    
+    "homeAd2is_Open" : true,
+    
+    "linkAdLink": "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration",
+    
+    "linkAdImage": "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/500x200.gif",
+    
+    "linkAdis_Open" : true,
+    
+    "dialogAd1Link": "https://love580.vip/ykbxdgMM",
+    
+    "dialogAd1Image": "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/BLIVE-400x950.gif",
+    
+    "dialogAd1is_Open" : true,
+    
+    "dialogAd2Link": "https://love580.vip/ykbxdgMM",
+    
+    "dialogAd2Image": "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/BLIVE-400x950.gif",
+    
+    "dialogAd2is_Open" : true,
+    
+    "streamAd" : [
+    { 
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/Image/main/600x200.gif",
+       "AdLink" : "https://refpa.top/L?tag=d_844389m_1236c_&site=844389&ad=1236&r=my/registration"
+    },
+    { 
+       "AdImage" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/BLIVE-600x200.gif",
+       "AdLink" : "https://love580.vip/ykbxdgMM"
+    }
+     ]
+}
+]
